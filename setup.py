@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='clean_folder',
     version='1.0',
-    author='SVT',
+    author='S.M.K.',
     license='MIT',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
