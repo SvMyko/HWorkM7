@@ -18,7 +18,4 @@ setup(
         'console_scripts': [
             'clean_folder = clean_folder.Sort:main']
     },
-    install_requires=[
-        'shutil',
-    ],
 )
