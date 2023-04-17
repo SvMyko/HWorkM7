@@ -17,5 +17,5 @@ setup(
     entry_points={
         'console_scripts': [
             'clean_folder = clean_folder.Sort:main']
-    },
+    }
 )
